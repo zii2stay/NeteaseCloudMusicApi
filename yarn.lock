@@ -800,7 +800,7 @@
 
 "cookie-signature@1.0.6":
   "integrity" "sha1-4wOogrNCzD7oylE6eZmXNNqzriw="
-  "resolved" "https://registry.npm.taobao.org/cookie-signature/download/cookie-signature-1.0.6.tgz"
+  "resolved" "https://registry.npmmirror.com/cookie-signature/download/cookie-signature-1.0.6.tgz"
   "version" "1.0.6"
 
 "cookie@0.5.0":
