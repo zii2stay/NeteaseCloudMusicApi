@@ -788,7 +788,7 @@
 
 "content-type@^1.0.4", "content-type@~1.0.4":
   "integrity" "sha1-4TjMdeBAxyexlm/l5fjJruJW/js="
-  "resolved" "https://registry.npm.taobao.org/content-type/download/content-type-1.0.4.tgz"
+  "resolved" "https://registry.npmmirror.com/content-type/download/content-type-1.0.4.tgz"
   "version" "1.0.4"
 
 "convert-source-map@^1.1.0", "convert-source-map@^1.1.1":
